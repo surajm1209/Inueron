@@ -1,0 +1,13 @@
+git status
+git config --global user.name "Surajm1209"
+git config --global user.email "Surajm1209@gmail.com"
+
+git init
+git add Hello.java
+git commit -m "My first commit"
+git branch -M main
+git remote add origin https://github.com/surajm1209/Inueron.git
+git push -u origin main
+
+
+
